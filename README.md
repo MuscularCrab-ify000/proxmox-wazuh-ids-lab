@@ -45,3 +45,12 @@ Build a realistic SOC Analyst environment with:
         events brute force.png
         events brute force.png
     README.md
+
+# SOC Home Lab - Proxmox + Wazuh
+
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-00A3E0?style=for-the-badge&logo=wazuh&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-Enabled-0078D4?style=for-the-badge)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
