@@ -27,12 +27,21 @@ Build a realistic SOC Analyst environment with:
 
 ## Status
 
-- [ ] Proxmox configured
-- [ ] Isolated network created (vmbr1)
-- [ ] Wazuh installed
-- [ ] Wazuh agent on Windows
-- [ ] Sysmon installed
-- [ ] First attack simulated (brute force)
-- [ ] Incident write-up
+- [x] Proxmox configured
+- [x] Wazuh agent on Windows
+- [x] Sysmon installed
+- [x] First attack simulated (brute force)
+- [x] Incident write-up
 
 ## Repository Structure
+
+    Docs
+        architecture.md
+        incident-brute-force.md
+    Screenshots
+        agent-windows.png
+        brute force dashboard.png
+        event details.png
+        events brute force.png
+        events brute force.png
+    README.md
