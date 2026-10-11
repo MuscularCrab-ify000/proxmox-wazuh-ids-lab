@@ -25,7 +25,7 @@ Multiple failed authentication attempts were detected against the Windows endpoi
 ## Screenshots
 - `Screenshots/brute force dashboard`
 - `screenshots/events brute force`
-- `Screenshots/event details
+- `Screenshots/event details`
 
 ## Lessons Learned
 - Sysmon + Wazuh successfully detected authentication failures
