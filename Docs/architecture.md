@@ -4,6 +4,10 @@
 
 This lab is built on Proxmox VE and simulates a small Security Operations Center environment. The goal is to generate realistic telemetry, detect attacks, and document investigations.
 
+## Diagram
+
+![Lab Architecture](architecture.png)
+
 ## Network Design
 
 Two Linux bridges are used on the Proxmox host:
